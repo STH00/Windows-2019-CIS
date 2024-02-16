@@ -64,7 +64,7 @@ win19cis_rule_1_1_6: false
 # for cloud-based systems and local-based systems. Notes are applied in the section01.yml file.
 win19cis_rule_1_2_1: true
 win19cis_rule_1_2_2: true
-win19cis_rule_1_2_3: true
+win19cis_rule_1_2_3: false
 win19cis_rule_1_2_4: true
 
 # section02
@@ -89,7 +89,7 @@ win19cis_rule_2_2_18: true
 win19cis_rule_2_2_19: true
 win19cis_rule_2_2_20: true
 win19cis_rule_2_2_21: true
-win19cis_rule_2_2_22: true
+win19cis_rule_2_2_22: false
 win19cis_rule_2_2_23: true
 win19cis_rule_2_2_24: true
 win19cis_rule_2_2_25: true
